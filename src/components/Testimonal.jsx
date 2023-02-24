@@ -18,8 +18,8 @@ const Testimonal = () => {
             commodi in nesciunt unde quasi ratione autem debitis aspernatur
             voluptates quo!
           </p>
-              </div>
-              <Testimonal />
+        </div>
+        <TestimonalSlider />
       </div>
     </section>
   );

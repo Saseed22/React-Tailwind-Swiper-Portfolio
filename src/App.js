@@ -6,7 +6,6 @@ import About from './components/About';
 import Skills from './components/Skills';
 import Portfolio from './components/Portfolio';
 import Services from './components/Services';
-
 import Testimonal from './components/Testimonal';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -28,7 +27,7 @@ const App = () => {
       <Testimonal />
       <Contact />
       <Footer />
-      <BackToTopButton />
+      <BackToTopButton /> 
     </div>
   );
 };

@@ -25,7 +25,7 @@ const Services = () => {
         {/* item grid */}
         <div className="grid lg:grid-cols-4 gap-8">
           {services.map((service, index) => {
-            const [icon, name, description] = service;
+            const { icon, name, description } = service;
             return (
               <div className="bg-secondary p-6 rounded-2xl" key={index}>
                 {/* icon */}

@@ -239,15 +239,15 @@ export const testimonials = [
     authorImg: TestiImage2,
     authorText:
       'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+    authorName: 'via juwe',
+    authorPosition: 'Head of Design, Yahoo',
   },
   {
     authorImg: TestiImage3,
     authorText:
       'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+    authorName: 'Oli bido',
+    authorPosition: 'Head of Design, NASA',
   },
 ];
 
